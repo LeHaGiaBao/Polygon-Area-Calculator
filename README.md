@@ -1,3 +1,11 @@
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/LeHaGiaBao/Polygon-Area-Calculator?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub forks](https://img.shields.io/github/forks/LeHaGiaBao/Polygon-Area-Calculator?style=for-the-badge)
+
+</div>
+
 ### Assignment
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
